@@ -1,5 +1,5 @@
-document.getElementById('btn').addEventListener('click', displayMessage) //Enables click
+document.getElementById('btn').addEventListener('click', displayMessage) // Enables click
 
-function displayMessage () { //creates a display function
+function displayMessage () { // creates a display function
   alert("Hello World")
 }
